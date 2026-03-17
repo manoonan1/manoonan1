@@ -1,13 +1,13 @@
-# Hey, I'm Michael Noonan
+# Hi, I'm Michael Noonan
 
-Software Engineer who enjoys building tools that solve real problems — from automating nutrition coaching workflows to modeling athletic performance.
+I am Software Engineer with 6+ years of experience in the test ecosystem, I enjoy building projects on the side to always be learning new technologies. My current projects have been centered around health. I am currently working on automating nutrition coaching workflows and modeling workout movements for future use in a workout predictor.
 
 ## Featured Projects
 
 ### [CrossFit Movement Model](https://github.com/manoonan1/cf_movement_model)
 A system to model CrossFit-style movements, designed to provide insight into athlete performance predictions. Built with a Python backend and JavaScript frontend, containerized with Docker.
 
-`JavaScript` `Python` `Docker` `CSS/HTML`
+`JavaScript` `Python` `Postgres` `Docker` `CSS/HTML`
 
 ---
 
@@ -18,14 +18,14 @@ A suite of tools powering a nutrition coaching business:
 
 **Nutrition Bot** — Automated SMS system built on Google Cloud Functions that handles weekly client check-ins. Sends weigh-in reminders, adherence form links, and overdue submission alerts to the coach. Integrates Twilio for messaging and Google Sheets as the client data backend.
 
-`TypeScript` `Python` `Google Cloud Functions` `Twilio` `Google Sheets API`
+`TypeScript` `Next.js` `Python` `Google Cloud Functions` `Twilio` `Google Sheets API`
 
 ---
 
 ### [HackerNews API Test Suite](https://github.com/manoonan1/hackernews-api-test)
 A Python test suite for the HackerNews API — demonstrating API testing patterns and best practices.
 
-`Python`
+`Python` `Pytest`
 
 ---
 
