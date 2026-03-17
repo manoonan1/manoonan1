@@ -14,7 +14,7 @@ A system to model CrossFit-style movements, designed to provide insight into ath
 ### Hyrynfit Ecosystem *(Private)*
 A suite of tools powering a nutrition coaching business:
 
-**Hyrynfit Web** — Client-facing website built with TypeScript.
+**Hyrynfit Web** — Client-facing website built with TypeScript. - https://hyrynfit-web.vercel.app/
 
 **Nutrition Bot** — Automated SMS system built on Google Cloud Functions that handles weekly client check-ins. Sends weigh-in reminders, adherence form links, and overdue submission alerts to the coach. Integrates Twilio for messaging and Google Sheets as the client data backend.
 
